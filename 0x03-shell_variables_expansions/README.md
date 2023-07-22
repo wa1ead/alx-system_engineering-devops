@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-0x shell
+0x03. shell, variables expansions
